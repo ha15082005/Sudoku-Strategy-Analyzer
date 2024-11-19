@@ -1,0 +1,2 @@
+[server]
+maxUploadSize = 2048  # Increase upload size to 2GB (in MB)
